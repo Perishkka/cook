@@ -1,0 +1,9 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+   
+}
+
+.btn btn-secondary my-2{
+    border: none;
+}
